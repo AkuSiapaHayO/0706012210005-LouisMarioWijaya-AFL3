@@ -32,7 +32,7 @@ struct LandmarkDetail: View {
 
 
                 Toggle(isOn: $modelData.landmarks[landmarkIndex].isFavorite) {
-                    Text("Favorite")
+                    Text("Favorite Willas")
                 }
 
 
